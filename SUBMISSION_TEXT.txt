@@ -1,0 +1,7 @@
+Project title: Genome Quest
+
+Short summary: A real-time multiplayer science quiz where players compete in genetics, genomics, cell biology, and biotechnology.
+
+Description (accurate to this version): Genome Quest is a real-time multiplayer science quiz built with Python, Flask, and Socket.IO. Players create or join rooms using a five-character code, answer timed questions, earn points, and compete on a live leaderboard. I enjoyed designing the neon science-themed interface and turning biology concepts into quick challenges. The main challenge was coordinating rooms, timed rounds, and live score updates. Next, I plan to add adaptive difficulty, achievements, more question packs, and optional AI-generated questions.
+
+Game link: Add your public deployment URL after deploying. Do not submit a made-up URL.
